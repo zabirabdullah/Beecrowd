@@ -33,3 +33,4 @@ int main(){
 
     return 0;
 }
+// Solve Time 15 mins
