@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(){
+    int n, i;
+    scanf("%d", &n);
+    i = 1;
+    while(i<=10)
+    {
+        printf("%d x %d = %d\n", i, n, n*i);
+        i++;
+    }
+
+    return 0;
+}
